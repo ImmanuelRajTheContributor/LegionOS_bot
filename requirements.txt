@@ -1,8 +1,8 @@
 future
-emoji==0.6.0
+emoji
 requests
-sqlalchemy==1.3.23
-python-telegram-bot==11.1.0
+sqlalchemy
+python-telegram-bot
 psycopg2
 feedparser
 pythonping
@@ -12,15 +12,11 @@ spongemock
 zalgo-text
 geopy
 nltk
-aiohttp>=2.2.5
-Pillow>=4.2.0
-#Cool stuff by Peak
+aiohttp
+Pillow
 PyLyrics
-#AEX
 hurry.filesize
-#translator
-googletrans==3.1.0a0
-
+googletrans
 tldextract
 PyYAML
 pyowm
